@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevenSakr
-- 👀 I’m interested in Softwar Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently discovering what I am truly capable of!
 - 📫 How to reach me: kevenwahibsakr@gmail.com
 
